@@ -1,0 +1,3 @@
+zx0_V2 -f TrafOfD.pt3
+
+shrinks from 11302 to 4019 bytes
